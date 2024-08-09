@@ -1,5 +1,5 @@
 ---
-name: Customer Service Booking
+name: 1. Customer Service Booking
 about: As a customer I can book a service on the website so that I can easily schedule
   and confirm appointments at my convenience.
 title: ''
